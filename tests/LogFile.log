@@ -1,0 +1,99 @@
+2023-07-05 19:42:32,670 :WARNING :utilities.BaseClass :warning msg
+2023-07-05 19:42:32,671 :ERROR :utilities.BaseClass :error message is displayed
+2023-07-05 19:42:32,671 :CRITICAL :utilities.BaseClass :critical error
+2023-07-05 20:08:13,948 :INFO :utilities.BaseClass :Items
+2023-07-05 20:08:16,606 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-05 20:11:41,074 :INFO :utilities.BaseClass :Items
+2023-07-05 20:11:43,127 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-05 20:11:53,958 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-05 20:20:22,913 :INFO :utilities.BaseClass :Name is :Nandha
+2023-07-05 20:20:25,203 :INFO :utilities.BaseClass :eMail id is  :nandha@gmail.com
+2023-07-05 20:20:36,828 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-05 20:20:36,828 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-05 20:20:37,358 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-05 20:20:37,358 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-05 20:21:43,308 :INFO :utilities.BaseClass :Items
+2023-07-05 20:21:43,308 :INFO :utilities.BaseClass :Items
+2023-07-05 20:21:43,308 :INFO :utilities.BaseClass :Items
+2023-07-05 20:21:45,182 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-05 20:21:45,182 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-05 20:21:45,182 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-05 20:21:55,735 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-05 20:21:55,735 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-05 20:21:55,735 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-06 20:39:33,499 :INFO :utilities.BaseClass :Name is :Nandha
+2023-07-06 20:39:33,989 :INFO :utilities.BaseClass :eMail id is  :nandha@gmail.com
+2023-07-06 20:39:36,771 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-06 20:39:36,771 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-06 20:39:36,995 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-06 20:39:36,995 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-06 20:41:10,940 :INFO :utilities.BaseClass :Items
+2023-07-06 20:41:10,940 :INFO :utilities.BaseClass :Items
+2023-07-06 20:41:10,940 :INFO :utilities.BaseClass :Items
+2023-07-06 20:41:12,519 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-06 20:41:12,519 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-06 20:41:12,519 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-06 20:41:22,931 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-06 20:41:22,931 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-06 20:41:22,931 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 16:59:06,044 :INFO :utilities.BaseClass :Name is :Nandha
+2023-07-13 16:59:07,178 :INFO :utilities.BaseClass :eMail id is  :nandha@gmail.com
+2023-07-13 16:59:12,985 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-13 16:59:12,985 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-13 16:59:13,398 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-13 16:59:13,398 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-13 17:00:33,491 :INFO :utilities.BaseClass :Items
+2023-07-13 17:00:33,491 :INFO :utilities.BaseClass :Items
+2023-07-13 17:00:33,491 :INFO :utilities.BaseClass :Items
+2023-07-13 17:00:35,974 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:00:35,974 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:00:35,974 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:00:46,609 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 17:00:46,609 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 17:00:46,609 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 17:15:01,180 :INFO :utilities.BaseClass :Name is :Nandha
+2023-07-13 17:15:01,766 :INFO :utilities.BaseClass :eMail id is  :nandha@gmail.com
+2023-07-13 17:15:05,649 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-13 17:15:05,649 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-13 17:15:05,993 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-13 17:15:05,993 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-13 17:16:31,264 :INFO :utilities.BaseClass :Items
+2023-07-13 17:16:31,264 :INFO :utilities.BaseClass :Items
+2023-07-13 17:16:31,264 :INFO :utilities.BaseClass :Items
+2023-07-13 17:16:32,852 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:16:32,852 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:16:32,852 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-13 17:16:43,280 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 17:16:43,280 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-13 17:16:43,280 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-14 12:07:39,553 :INFO :utilities.BaseClass :Name is :Nandha
+2023-07-14 12:07:40,431 :INFO :utilities.BaseClass :eMail id is  :nandha@gmail.com
+2023-07-14 12:07:45,552 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-14 12:07:45,552 :INFO :utilities.BaseClass :Name is :Nithi
+2023-07-14 12:07:46,524 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-14 12:07:46,524 :INFO :utilities.BaseClass :eMail id is  :nithi18@gmail.com
+2023-07-14 12:08:25,225 :INFO :utilities.BaseClass :Items
+2023-07-14 12:08:25,225 :INFO :utilities.BaseClass :Items
+2023-07-14 12:08:25,225 :INFO :utilities.BaseClass :Items
+2023-07-14 12:08:26,370 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-14 12:08:26,370 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-14 12:08:26,370 :INFO :utilities.BaseClass :Entering Country Name as Ind
+2023-07-14 12:08:37,363 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-14 12:08:37,363 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-14 12:08:37,363 :INFO :utilities.BaseClass :Getting Text as :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
